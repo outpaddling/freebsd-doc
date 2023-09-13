@@ -1033,7 +1033,6 @@
 * Joe Orthoefer <mailto:j_orthoefer@tia.net[j_orthoefer@tia.net]>
 * Joe Smith <mailto:inwap@best.com[inwap@best.com]>
 * Joe Traister <mailto:traister@mojozone.org[traister@mojozone.org]>
-* Joel Bodenmann <mailto:jbo@insane.engineer[jbo@insane.engineer]>
 * Joel Diaz <mailto:joeldiaz@bellsouth.net[joeldiaz@bellsouth.net]>
 * Joel Faedi <mailto:Joel.Faedi@esial.u-nancy.fr[Joel.Faedi@esial.u-nancy.fr]>
 * Joel Ray Holveck <mailto:joelh@gnu.org[joelh@gnu.org]>
@@ -2055,6 +2054,7 @@
 * Stefan Schwarzer <mailto:sschwarzer@sschwarzer.net[sschwarzer@sschwarzer.net]>
 * Stefan Tell <mailto:stefan.tell@crashmail.de[stefan.tell@crashmail.de]>
 * Stefan `Sec` Zehl <mailto:sec@42.org[sec@42.org]>
+* Stefano Marinelli <mailto:stefano@dragas.it[stefano@dragas.it]>
 * Steffen Fritz <mailto:steffen@fritz.wtf[steffen@fritz.wtf]>
 * Steffen Mazanek <mailto:steffen.mazanek@unibw-muenchen.de[steffen.mazanek@unibw-muenchen.de]>
 * Steffen Vogelreuter <mailto:Steffen@Vogelreuter.De[Steffen@Vogelreuter.De]>
